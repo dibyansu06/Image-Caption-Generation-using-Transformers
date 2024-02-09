@@ -69,6 +69,10 @@ This project was undertaken as a learning project, drawing inspiration and knowl
 - The [Keras Vision Image Captioning](https://keras.io/examples/vision/image_captioning/), which provided valuable insights into model implementation and training.
 - "Attention Is All You Need", the seminal paper introducing the transformer architecture, served as a foundational resource.
 
+
+**Important Note**: Due to a known issue, the model may become unusable after saving and loading it. This could be due to compatibility issues or limitations in the current implementation. I are actively working on resolving this issue, but in the meantime, please be cautious when saving and loading the model. I recommend retraining the model if you encounter any issues with its usability after loading.
+
+
 ---
 
 By combining the power of convolutional neural networks with transformer-based architectures, our image captioning model achieves impressive results in generating descriptive captions for diverse images. I hope this repository serves as a valuable resource for researchers and practitioners in the field of computer vision and natural language processing.
