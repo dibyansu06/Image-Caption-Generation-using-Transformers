@@ -61,16 +61,8 @@ Test sample 7:
 ![Sample Caption 7](/results_sc/Screenshot%202023-12-17%20093116.png)
 
 
-## Learning Resources
 
-This project was undertaken as a learning project, drawing inspiration and knowledge from various sources, including:
-
-- Research papers on image captioning and transformer architectures.
-- The [Keras Vision Image Captioning](https://keras.io/examples/vision/image_captioning/), which provided valuable insights into model implementation and training.
-- "Attention Is All You Need", the seminal paper introducing the transformer architecture, served as a foundational resource.
-
-
-**Important Note**: Due to a known issue, the model may become unusable after saving and loading it. This could be due to compatibility issues or limitations in the current implementation. I are actively working on resolving this issue, but in the meantime, please be cautious when saving and loading the model. I recommend retraining the model if you encounter any issues with its usability after loading.
+**Important Note**: Due to a known issue, the model may become unusable after saving and loading it. This could be due to compatibility issues or limitations in the current implementation. I will try solving this issue, but in the meantime, please be cautious when saving and loading the model. I recommend retraining the model if you encounter any issues with its usability after loading.
 
 
 ---
